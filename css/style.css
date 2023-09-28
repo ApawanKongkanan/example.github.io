@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255, 250, 162);
+}
+header {
+    text-align: center;
+    border: 10px solid white;
+    border-radius: 16px;
+    padding: 19px; 
+    margin: 15px 22px 20px; 
+    background-color: white;
+    text-transform: uppercase ;
+    color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+#eye img {
+    border-radius: 50px;
+    border: 5px solid white;
+}
+
+li{}
